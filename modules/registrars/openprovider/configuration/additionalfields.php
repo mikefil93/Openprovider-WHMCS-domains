@@ -129,7 +129,7 @@ $additionaldomainfields[".pt"][] = array(
 );
 
 $additionaldomainfields['.pt'][] = array(
-    'Name' => 'Número de identificación',
+    'Name' => 'Número de Identificação',
     "Type" => "text",
     "Size" => "30",
     "Required" => true,
